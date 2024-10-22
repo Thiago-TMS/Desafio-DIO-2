@@ -34,4 +34,4 @@ function saldo(vitorias, derrotas) {
  }
 
  let resultado = saldo(vitorias, derrotas);
-console.log("O Herói tem saldo de " + resultado.saldoVitorias + " e está no nível de " + nivel);
+console.log("O Herói tem saldo de " + resultado.saldoVitorias + " e está no nível de " + nivel)
